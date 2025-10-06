@@ -3,8 +3,7 @@
 An exploratory data analysis project on **Steam games dataset** using **Python**, **Google Colab**, and **Power BI**.  
 The goal of this project was to clean, analyze, and visualize the data to uncover insights about game prices and trends.
 
-## 📸 Dashboard Preview
-![Steam Games Dashboard](steam_games_dashboard.png)
+
 
 ## 🛠️ Tools & Technologies
 - **Python** – for data cleaning, preprocessing, and analysis.  
